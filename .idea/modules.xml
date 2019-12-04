@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/member-provider-public-api/member-provider-public-api.iml" filepath="$PROJECT_DIR$/member-provider-public-api/member-provider-public-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/member-provider-public-impl/member-provider-public-impl.iml" filepath="$PROJECT_DIR$/member-provider-public-impl/member-provider-public-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhoyou-netty.iml" filepath="$PROJECT_DIR$/zhoyou-netty.iml" />
+    </modules>
+  </component>
+</project>
