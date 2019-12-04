@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="member-provider-public-api" />
         <module name="member-provider-public-impl" />
+        <module name="order-consumer-public-impl" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="member-provider-public-api" target="1.5" />
       <module name="member-provider-public-impl" target="1.5" />
+      <module name="order-consumer-public-impl" target="1.5" />
       <module name="zhoyou-netty" target="1.5" />
     </bytecodeTargetLevel>
   </component>
